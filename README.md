@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **srudresh884@gmail.com** For Collaboration/Project or Anyt
 
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rudresh-singh-46306a247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srudresh884@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rudreshsingh95) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srudresh884@gmail.com) 
 
 
 # 💻 Tech Stack:
